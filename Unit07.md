@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS401: Operating Systems"
+course_description: "An examination of the evolution of operating systems and design, focusing on hardware/software evolution leading to contemporary operating systems, basic operating systems concepts, methods of operating systems design and construction, algorithms for CPU scheduling, memory and general resource allocation, and process coordination and management."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: File System** <span id="7"></span> 
 **File systems play an important role in the operating system. From the
 user’s perspective, the file system is a simple filing cabinet. 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS401: Operating Systems"
+course_description: "An examination of the evolution of operating systems and design, focusing on hardware/software evolution leading to contemporary operating systems, basic operating systems concepts, methods of operating systems design and construction, algorithms for CPU scheduling, memory and general resource allocation, and process coordination and management."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Memory Management** <span id="6"></span> 
 **Memory is the oil that keeps the computer running smoothly.  It is
 present in various forms throughout the entire computer system.* * As

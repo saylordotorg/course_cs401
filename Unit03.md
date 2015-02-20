@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS401: Operating Systems"
+course_description: "An examination of the evolution of operating systems and design, focusing on hardware/software evolution leading to contemporary operating systems, basic operating systems concepts, methods of operating systems design and construction, algorithms for CPU scheduling, memory and general resource allocation, and process coordination and management."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Synchronization** <span id="3"></span> 
 *Because a number of different entities will need to access data, it is
 important to learn how to maintain a consistent view of data across the

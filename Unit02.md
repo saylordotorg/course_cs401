@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS401: Operating Systems"
+course_description: "An examination of the evolution of operating systems and design, focusing on hardware/software evolution leading to contemporary operating systems, basic operating systems concepts, methods of operating systems design and construction, algorithms for CPU scheduling, memory and general resource allocation, and process coordination and management."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Processes and Threads** <span id="2"></span> 
 **We will discuss two central building blocks of modern Operating
 Systems:  Processes and Threads.  Processes (instances of a running

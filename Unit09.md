@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS401: Operating Systems"
+course_description: "An examination of the evolution of operating systems and design, focusing on hardware/software evolution leading to contemporary operating systems, basic operating systems concepts, methods of operating systems design and construction, algorithms for CPU scheduling, memory and general resource allocation, and process coordination and management."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Networking** <span id="9"></span> 
 *Computer networking has become an increasingly important field.  When
 we discuss networking, we are not just referring to connecting computers

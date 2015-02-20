@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS401: Operating Systems"
+course_description: "An examination of the evolution of operating systems and design, focusing on hardware/software evolution leading to contemporary operating systems, basic operating systems concepts, methods of operating systems design and construction, algorithms for CPU scheduling, memory and general resource allocation, and process coordination and management."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Security** <span id="8"></span> 
 **Security is an important part of operating systems.  There are many
 threats today to computer systems.  This unit will begin with a brief

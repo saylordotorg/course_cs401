@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS401: Operating Systems"
+course_description: "An examination of the evolution of operating systems and design, focusing on hardware/software evolution leading to contemporary operating systems, basic operating systems concepts, methods of operating systems design and construction, algorithms for CPU scheduling, memory and general resource allocation, and process coordination and management."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Operating Systems** <span id="1"></span> 
 **We will begin* *this course with a high level introduction to
 Operating Systems (OS).  The Operating* *System acts as a platform of

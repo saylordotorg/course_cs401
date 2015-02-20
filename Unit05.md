@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS401: Operating Systems"
+course_description: "An examination of the evolution of operating systems and design, focusing on hardware/software evolution leading to contemporary operating systems, basic operating systems concepts, methods of operating systems design and construction, algorithms for CPU scheduling, memory and general resource allocation, and process coordination and management."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Deadlock** <span id="5"></span> 
 **Deadlock is a paralyzing process state resulting from improper CPU
 scheduling, process management, and synchronization management. *

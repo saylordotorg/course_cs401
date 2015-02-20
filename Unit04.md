@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS401: Operating Systems"
+course_description: "An examination of the evolution of operating systems and design, focusing on hardware/software evolution leading to contemporary operating systems, basic operating systems concepts, methods of operating systems design and construction, algorithms for CPU scheduling, memory and general resource allocation, and process coordination and management."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: CPU Scheduling** <span id="4"></span> 
 **Central Process Unit (CPU) scheduling deals with having more
 processes/threads than processors to handles those tasks, meaning how
